@@ -11,4 +11,10 @@
    - division: a fraction (e.g. 17: 5 = 3 2/5) (always: <0, 99> optional: <0; 99> <1; 99>/<2; 99>)
 
 
-<i>*code looks like shit but works 😆</i>
+<i>*code looks like shit but works fine 😆</i>
+
+## Examples
+
+<center>
+<img width="1075" alt="Zrzut ekranu 2022-10-27 o 10 08 15" src="https://user-images.githubusercontent.com/61777542/198228000-73894187-e750-44ff-ab3e-af3b692e7f11.png">
+</center>
