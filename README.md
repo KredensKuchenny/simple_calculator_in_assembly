@@ -7,5 +7,5 @@
 - wyświetlanie wyniku:
   - dodawania: BCD <0; 99>
   - odejmowania: BCD <-99; 99>
-  - mnożenia: hex <0; FF>
+  - mnożenia: hex <0; FFFF>
   - dzielenia: ułamek (np. 17 : 5 = 3 2/5)
