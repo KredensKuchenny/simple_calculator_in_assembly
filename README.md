@@ -8,4 +8,4 @@
    - addition: BCD <0; 99>
    - subtraction: BCD <-99; 99>
    - multiplication: hex <0; FFFF>
-   - division: a fraction (e.g. 17: 5 = 3 2/5)
+   - division: a fraction (e.g. 17: 5 = 3 2/5) (always: <0, 99> optional: <0; 99> <1; 99>/<2; 99>)
