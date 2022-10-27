@@ -14,6 +14,7 @@
    - division: a fraction (e.g. 17: 5 = 3 2/5) (always: <0, 99> optional: <0; 99> <1; 99>/<2; 99>)
         - LCD shows: BCD:BCD=BCD or BCD:BCD=BCD BCD/BCD
 
+
 <i>*code looks like shit but works fine 😆</i>
 
 ## Examples (DSM-51 emulator)
