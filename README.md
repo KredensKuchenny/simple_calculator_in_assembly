@@ -1,11 +1,11 @@
 # Simple calculator in assembly
 
-- możliwość wprowadzenia liczb dwucyfrowych
-- wprowadzane liczby są wyświetlane cyfra po cyfrze
-- liczby zatwierdzane przyciskiem ENTER po wprowadzeniu i zatwierdzeniu liczby ekran LCD jest czyszczony
-- wykorzystanie stosu do przechowywania operatora i liczb
-- wyświetlanie wyniku:
-  - dodawania: BCD <0; 99>
-  - odejmowania: BCD <-99; 99>
-  - mnożenia: hex <0; FFFF>
-  - dzielenia: ułamek (np. 17 : 5 = 3 2/5)
+- possibility to enter two-digit numbers
+- entered numbers are displayed digit by digit
+- numbers confirmed by pressing ENTER after entering and confirming the number, the LCD screen is cleared
+- the use of a stack to store an operator and numbers
+- displaying the result:
+   - addition: BCD <0; 99>
+   - subtraction: BCD <-99; 99>
+   - multiplication: hex <0; FFFF>
+   - division: a fraction (e.g. 17: 5 = 3 2/5)
